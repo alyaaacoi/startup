@@ -28,7 +28,7 @@
             </div>
             <article>
                 <h2>Apa itu Nelii</h2>
-                <p>jelek patkam. banyak airnya</p>
+                <p>jelek patkam. banyak air lautnya</p>
             </article>
         </div>
         <!-- footer -->
