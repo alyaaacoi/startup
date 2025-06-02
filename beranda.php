@@ -28,7 +28,7 @@
             </div>
             <article>
                 <h2>Apa itu Nelii</h2>
-                <p>jelek patkam. banyak air lautnya</p>
+                <p>jelek patkam. sering macet, ada lorong dalam lorong.</p>
             </article>
         </div>
         <!-- footer -->
