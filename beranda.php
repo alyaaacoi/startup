@@ -27,8 +27,8 @@
                 <p>Ini adalah halaman beranda website startup.</p>
             </div>
             <article>
-                <h2>Apa itu Alya</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, nostrum veniam. Blanditiis beatae sunt minima tempora laborum vel dignissimos debitis consequuntur similique accusantium facere ad, possimus voluptatum natus ullam impedit?</p>
+                <h2>Apa itu Nelii</h2>
+                <p>jelek patkam. banyak airnya</p>
             </article>
         </div>
         <!-- footer -->
