@@ -23,7 +23,7 @@
         <!-- konten -->
         <div class="konten">
             <div class="hero">
-                <h1>Selamat Datang di Website Startup</h1>
+                <h1>Selamat Datang di Website Neli</h1>
                 <p>Ini adalah halaman beranda website startup.</p>
             </div>
             <article>
