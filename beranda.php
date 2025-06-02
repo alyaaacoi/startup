@@ -27,7 +27,7 @@
                 <p>Ini adalah halaman beranda website startup.</p>
             </div>
             <article>
-                <h2>Apa itu Nelii</h2>
+                <h2>Apa itu Neli</h2>
                 <p>jelek patkam. sering macet, ada lorong dalam lorong.</p>
             </article>
         </div>
